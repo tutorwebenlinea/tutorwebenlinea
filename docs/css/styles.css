@@ -296,12 +296,14 @@ a:hover {
 }
 
 .header {
-	position: fixed;
+	/*position: fixed;*/
+	position: absolute;
 	width: 100%;
 	background: transparent;
 	z-index: 50;
 	border-radius: 0;
-	top: 35px;
+	/*top: 35px;*/
+	top: 0px;
 	transition: all 0.3s linear;
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
