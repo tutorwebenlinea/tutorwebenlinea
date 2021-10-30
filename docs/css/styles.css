@@ -1465,7 +1465,8 @@ figure.effect-bubba:hover h2, figure.effect-bubba:hover a {
 		margin-top: 36px;
 	}
 	.banner-container {
-		background-size: contain;
+		/*background-size: contain;*/
+		background-size: cover;
 	}
 	.row .six {
 		width: auto;
@@ -1571,7 +1572,8 @@ figure.effect-bubba:hover h2, figure.effect-bubba:hover a {
 		padding: 22px 0 !important;
 	}
 	.banner-container {
-		background-size: contain;
+		/*background-size: contain;*/
+		background-size: cover;
 	}
 	.banner-container>img {
 		width: 100%;
@@ -1642,7 +1644,8 @@ figure.effect-bubba:hover h2, figure.effect-bubba:hover a {
 
 @media (max-width: 320px) {
 	.banner-container {
-		background-size: contain;
+		/*background-size: contain;*/
+		background-size: cover;
 	}
 	.da-slider {
 		height: 300px;
