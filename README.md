@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
  -->
 
-- Estoy trabajando actualmente en  cursos de desarrollo web. Hace unos comencé realizando estudios e investigaciones por diversión en @codefuncode. Ahora te brindo mis conocimientos para que puedas desarrollar aplicaciones comerciales  de forma fluida.
+- Estoy trabajando actualmente en  cursos de desarrollo web. Hace unos comencé realizando estudios e investigaciones por diversión en [@codefuncode](https://github.com/codefuncode). Ahora te brindo mis conocimientos para que puedas desarrollar aplicaciones comerciales  de forma fluida.
 
 - Toda la vida estaré aprendiendo hasta el fin  de mis días y mientras eso ocurre puedo compartir mis avances con usted. 
 
