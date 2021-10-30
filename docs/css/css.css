@@ -22,10 +22,24 @@
 	height: 100% !important;
 }*/
 
+@media only screen and (min-width: 399px) {
+	/**/
+	.item img {
+		width: 100% !important;
+		height: 50px!important;
+	}
+	#carousel {
+		height: 50px!important;
+	}
+}
+
 @media only screen and (min-width: 400px) {
 	/**/
 	.item img {
 		width: 100% !important;
+		height: 250px!important;
+	}
+	#carousel {
 		height: 250px!important;
 	}
 }
@@ -36,6 +50,9 @@
 		width: 100% !important;
 		height: 300px !important;
 	}
+	#carousel {
+		height: 300px!important;
+	}
 }
 
 @media only screen and (min-width: 768px) {
@@ -43,8 +60,11 @@
 		width: 100% !important;
 		height: 500px !important;
 	}
+	#carousel {
+		height: 500px!important;
+	}
 }
 
-.carousel, .carousel-inner, .carousel-inner .item {
+/*.carousel, .carousel-inner, .carousel-inner .item {
 	height: auto !important;
-}
+}*/
