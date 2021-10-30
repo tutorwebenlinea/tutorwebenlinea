@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - Puedes comunicarte conmigo a través de la mensajería en mi página web, cuyo enlace esta en este perfil.  
 
 
-[![Portada](./docs/images/portada2.jpg)]
+![Portada](./docs/images/portada2.jpg)
