@@ -2,4 +2,3 @@
 ////////////////////////////
 sudo /opt/lampp/lampp start
 ////////////////////////////
-https://www.uclm.es/misiones/lauclm/consejodedireccion/vd/innovacioneducativa/tutoriaspersonalizadas
